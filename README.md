@@ -8,16 +8,28 @@
 
 _I **can** combine them_
 
-##Lists
-####Unordered
+## Lists ##
+#### Unordered ####
 * Item 1
 * Item 2
     * Item 2a
     * Item 2b
 
-####Ordered
+#### Ordered ####
 1. Item 1
-1. Item 2
-1. Item 3
+2. Item 2
+3. Item 3
     1. Item 3a
-    1. Item 3b
+    2. Item 3b
+
+## Images ##
+<!-- ![Husky-Corgi Mix](/home/dejan/Documents/WebDevelopmentBootcamp/HTML/Husky-Corgi-Mix-8.png)
+Format: ![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdogtime.com%2Fdog-breeds%2Fpembroke-welsh-corgi&psig=AOvVaw2lAfUAeYZrgdcLhh43wNzD&ust=1594476952598000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDX2dbvwuoCFQAAAAAdAAAAABAD)
+ -->
+
+ ## Links ##
+ https://github.com/ - automatic! \
+ [GitHub Homepage](https://github.com/)
+
+
+
